@@ -1,2 +1,2 @@
 # typescript-gulp
-create type script base gulp
+create nodejs project: express+typescript+gulp+mocha
