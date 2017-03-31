@@ -1,0 +1,72 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "node/node.d.ts": {
+      "commit": "926711691d213f76a483b36dd728e80be1257717"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "dc9dabe74a5be62613b17a3605309783a12ff28a"
+    },
+    "assertion-error/assertion-error.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "chai/chai.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "express/express.d.ts": {
+      "commit": "b10e5ade29708bb0a7d21916a9fe289973520e89"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "b10e5ade29708bb0a7d21916a9fe289973520e89"
+    },
+    "mime/mime.d.ts": {
+      "commit": "b10e5ade29708bb0a7d21916a9fe289973520e89"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "1984ea435fe9e93a012d50db7773db58ae5d494b"
+    },
+    "request/request.d.ts": {
+      "commit": "c0d876601e0f8236fd6b57626eb62c4e485f1563"
+    },
+    "form-data/form-data.d.ts": {
+      "commit": "c0d876601e0f8236fd6b57626eb62c4e485f1563"
+    },
+    "supertest/supertest.d.ts": {
+      "commit": "1984ea435fe9e93a012d50db7773db58ae5d494b"
+    },
+    "superagent/superagent.d.ts": {
+      "commit": "b10e5ade29708bb0a7d21916a9fe289973520e89"
+    },
+    "joi/joi.d.ts": {
+      "commit": "1984ea435fe9e93a012d50db7773db58ae5d494b"
+    },
+    "pg/pg.d.ts": {
+      "commit": "b10e5ade29708bb0a7d21916a9fe289973520e89"
+    },
+    "sinon/sinon.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "4ec3c5bf291bc02f49eb30c1077340b235165c67"
+    },
+    "chai-as-promised/chai-as-promised.d.ts": {
+      "commit": "4ec3c5bf291bc02f49eb30c1077340b235165c67"
+    },
+    "promises-a-plus/promises-a-plus.d.ts": {
+      "commit": "4ec3c5bf291bc02f49eb30c1077340b235165c67"
+    },
+    "sinon-chai/sinon-chai.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "nock/nock.d.ts": {
+      "commit": "bd269cad4cb2b495f940c7b6afc5825d568029be"
+    },
+    "promisify-supertest/promisify-supertest.d.ts": {
+      "commit": "b10e5ade29708bb0a7d21916a9fe289973520e89"
+    }
+  }
+}

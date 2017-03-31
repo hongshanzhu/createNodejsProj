@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./build",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "declaration": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "src\\index.ts",
+    "test\\test.ts",
+    "typings\\tsd.d.ts"
+  ]
+}
